@@ -1,0 +1,2 @@
+# manage-system
+component manage
